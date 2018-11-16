@@ -1,0 +1,2 @@
+# InfopoleProject
+Проект для диплома
